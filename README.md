@@ -1,7 +1,6 @@
-# Tauri + React + Typescript
+# Reflow
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This is a desktop app that reads .gcode and compensates for flow drop off as print speed increases.
+Requires a lot of printer specific tests for this to function. Highly experimental.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![App photo](github/example.png)
